@@ -1,4 +1,4 @@
-package ders2Odev;
+package ders02Odev;
 
 public class Students {
 	

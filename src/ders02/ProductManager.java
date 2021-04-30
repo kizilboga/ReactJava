@@ -1,4 +1,4 @@
-
+package ders02;
 public class ProductManager {
 
 	public static void addToCart(Product product) {
